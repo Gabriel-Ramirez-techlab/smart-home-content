@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Smart Home</title>
+</head>
+<body>
+
+
+<h1><center>Smart Home</center></h1>
+
+
+<div class="navbar">
+    <a href="#"><strong>Home</strong></a>  
+       
+    <a href="#"><strong>floor Plan</strong></a>
+    <a href="#"><strong>Selection</strong></a>
+    <a href="#"><strong>Benefits</strong></a>
+  </div>
+
+
+<br><hr>
+<h2>Home</h2>
+<p> This self-maintaining residence is designed for those who value luxury and efficiency.
+   By seamlessly integrating these advanced technologies, it offers an unparalleled living experience
+    where your time is dedicated to enjoyment rather than upkeep. Welcome to a new standard in hassle-free elegance.
+
+
+    <h3>automation</h3>
+    <p>   Embrace a new era of living with state-of-the-art technology that anticipates your needs.
+      The house features smart sensors that adjust lighting, temperature, and even the music to perfectly match your mood.
+      Everything is designed to enhance your comfort and simplify your life.
+      Experience the future of home maintenance with self-repairing systems. Whether it’s minor wear and tear or unexpected
+      issues, the home’s automated repair units address and fix problems efficiently, reducing the need for external maintenance services.
+      The home’s system monitors all its components and sends predictive maintenance alerts before issues become significant problems.
+      This proactive approach ensures that
+      everything is running smoothly and efficiently.
+
+
+    </p>
+<br> <hr>
+
+
+
+
+<h2>Floor plan</h2>
+<p>
+   The floor plan features distinct zones for different functions,
+  such as private sleeping areas, communal living spaces, and specialized zones for work or hobbies.
+  This zoning ensures that each area serves
+   its purpose effectively, providing both privacy and convenience.
+   The floor plan accommodates advanced smart home technologies seamlessly. Hidden wiring and discreet
+    technology hubs ensure that modern conveniences like automated lighting, climate control,
+   and security systems are both functional and aesthetically pleasing.
+<br><P>Every square foot is meticulously planned to maximize usability. Built-in storage solutions,
+  such as cabinetry and closet systems, are seamlessly in
+  tegrated into the design, eliminating clutter and optimizing space.</P>
+  </p>
+ <br> <hr>
+
+
+<h2><center>Selection</center></h2>
+<p>
+  <img src="images-house/rat.png" height="200">
+
+
+  <img src="images-house/rat2.avif" height="200"
+
+
+</p>
+<br> <hr>
+<h2>Benefits</h2>
+<ol>
+  <li><strong>Fire Detection and Response:</strong></il>
+    <ul>  The house is equipped with sophisticated fire detection systems.
+      When a fire breaks out, the house automatically responds</ul>
+
+
+      <br>
+  <li><strong>Safety Protocols and Maintenance:</strong></il>
+    <ul> Regular maintenance and safety checks are performed
+       automatically by the house.</ul>
+       <br>
+<li><strong>Predictive Safety Measures: </strong></il>
+  <ul> The house’s ability to anticipate and react to
+    potential hazards based on its sensors and programming </ul>
+</ol>
+
+
+
+
+
+
+
+
+</p>
+
+
+</body>
+</html>
